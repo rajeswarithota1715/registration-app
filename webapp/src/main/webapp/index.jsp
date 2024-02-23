@@ -8,7 +8,7 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
 
-    <label for="GIT HUB"><b>Enter GIT HUB URL</b></label>
+    <label for="GIT HUB"><b>Enter linked in url</b></label>
     <input type="text" placeholder="Enter github url" name="Name" id="Name" required>
     <br>
 
